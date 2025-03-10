@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 example readme.
 ## Available Scripts
-Hi This is new change made into the amritanand-patch-1 branch
+
 In the project directory, you can run:
 
 ### `npm start`
